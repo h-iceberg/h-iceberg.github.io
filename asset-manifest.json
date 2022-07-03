@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e437e83.css",
+    "main.js": "/static/js/main.9e596e9d.js",
+    "static/js/787.c436191d.chunk.js": "/static/js/787.c436191d.chunk.js",
+    "static/media/bless-button.png": "/static/media/bless-button.f278890b34afdf07ecde.png",
+    "static/media/bless2.png": "/static/media/bless2.37b29223dfc9cdb16d1e.png",
+    "static/media/bless1.png": "/static/media/bless1.0428ea67423e98770ccb.png",
+    "index.html": "/index.html",
+    "main.0e437e83.css.map": "/static/css/main.0e437e83.css.map",
+    "main.9e596e9d.js.map": "/static/js/main.9e596e9d.js.map",
+    "787.c436191d.chunk.js.map": "/static/js/787.c436191d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e437e83.css",
+    "static/js/main.9e596e9d.js"
+  ]
+}
